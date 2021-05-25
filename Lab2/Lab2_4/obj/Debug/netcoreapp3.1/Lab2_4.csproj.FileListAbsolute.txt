@@ -1,0 +1,12 @@
+C:\Users\volos\Desktop\Lab2\Lab2_4\bin\Debug\netcoreapp3.1\Lab2_4.exe
+C:\Users\volos\Desktop\Lab2\Lab2_4\bin\Debug\netcoreapp3.1\Lab2_4.deps.json
+C:\Users\volos\Desktop\Lab2\Lab2_4\bin\Debug\netcoreapp3.1\Lab2_4.runtimeconfig.json
+C:\Users\volos\Desktop\Lab2\Lab2_4\bin\Debug\netcoreapp3.1\Lab2_4.runtimeconfig.dev.json
+C:\Users\volos\Desktop\Lab2\Lab2_4\bin\Debug\netcoreapp3.1\Lab2_4.dll
+C:\Users\volos\Desktop\Lab2\Lab2_4\bin\Debug\netcoreapp3.1\Lab2_4.pdb
+C:\Users\volos\Desktop\Lab2\Lab2_4\obj\Debug\netcoreapp3.1\Lab2_4.AssemblyInfoInputs.cache
+C:\Users\volos\Desktop\Lab2\Lab2_4\obj\Debug\netcoreapp3.1\Lab2_4.AssemblyInfo.cs
+C:\Users\volos\Desktop\Lab2\Lab2_4\obj\Debug\netcoreapp3.1\Lab2_4.csproj.CoreCompileInputs.cache
+C:\Users\volos\Desktop\Lab2\Lab2_4\obj\Debug\netcoreapp3.1\Lab2_4.dll
+C:\Users\volos\Desktop\Lab2\Lab2_4\obj\Debug\netcoreapp3.1\Lab2_4.pdb
+C:\Users\volos\Desktop\Lab2\Lab2_4\obj\Debug\netcoreapp3.1\Lab2_4.genruntimeconfig.cache
